@@ -1,2 +1,0 @@
-# countryjson
-for testing
